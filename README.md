@@ -51,5 +51,4 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyeongsoolee&show_icons=true&theme=gotham&locale=en" alt="kyeongsoolee" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyeongsoolee&theme=gotham" alt="kyeongsoolee" /></p>

@@ -1,6 +1,6 @@
 ### About me
 <a href="https://linkedin.com/in/kyeongsoo-lee-012796203" target="_blank">
-  <img align="left" alt="kyeongsoo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="linkedin.com/in/kyeongsoo-lee-012796203" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://instagram.com/leeksca26" target="_blank">
   <img align="left" alt="kyeongsoo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
